@@ -1,7 +1,7 @@
 # OAuth2.0을 이용한 로그인 방식
 
-## Security 없이 확장성을 넓힌 Oauth2.0를 이용한 네이버, 카카오, 구글 로그인
-## https://ttl-blog.tistory.com/1434#hELLO
+### Security 없이 확장성을 넓힌 Oauth2.0를 이용한 네이버, 카카오, 구글 로그인
+* https://ttl-blog.tistory.com/1434#hELLO
 
 * 이전 README 프로젝트에서 구현에만 급급하여 조금 알아보기 위해 작업.
   1. Security 없이 API 로그인 진행
